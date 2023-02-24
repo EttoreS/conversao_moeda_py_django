@@ -12,3 +12,7 @@
 
 <p>Libs instaladas -> pip freeze</p>
 <p>Comando -> pip install -r requirements.txt</p>
+
+<h2>Run Dev Server</h2>
+
+<p>Comando -> python .\manage.py runserver</p>
